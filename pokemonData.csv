@@ -516,7 +516,7 @@ Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation
 515,Panpour,Water,,316,50,53,48,53,48,64,5,FALSE,Blue,TRUE,0.875,Field,,FALSE,0.61,13.5,190,bipedal_tailed,LC
 516,Simipour,Water,,498,75,98,63,98,63,101,5,FALSE,Blue,TRUE,0.875,Field,,FALSE,0.99,29,75,bipedal_tailed,PU
 517,Munna,Psychic,,292,76,25,45,67,55,24,5,FALSE,Pink,TRUE,0.5,Field,,FALSE,0.61,23.3,190,quadruped,LC
-518,Musharna,Psychic,,487,116,55,85,107,95,29,5,FALSE,Pink,TRUE,0.5,Field,,FALSE,1.09,60.5,75,bipedal_tailless,PC
+518,Musharna,Psychic,,487,116,55,85,107,95,29,5,FALSE,Pink,TRUE,0.5,Field,,FALSE,1.09,60.5,75,bipedal_tailless,PU
 519,Pidove,Normal,Flying,264,50,55,50,36,30,43,5,FALSE,Grey,TRUE,0.5,Flying,,FALSE,0.3,2.1,255,two_wings,LC
 520,Tranquill,Normal,Flying,358,62,77,62,50,42,65,5,FALSE,Grey,TRUE,0.5,Flying,,FALSE,0.61,15,120,two_wings,NFE
 521,Unfezant,Normal,Flying,488,80,115,80,65,55,93,5,FALSE,Grey,TRUE,0.5,Flying,,FALSE,1.19,29,45,two_wings,PU
